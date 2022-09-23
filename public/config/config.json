@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4cF8D567d142f4b4C1DD6FDc08e7Cfc3c8F0d1a2",
+  "SCAN_LINK": "https://etherscan.io/address/0x4cF8D567d142f4b4C1DD6FDc08e7Cfc3c8F0d1a2",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Renga Rave DAO",
+  "SYMBOL": "REND",
+  "MAX_SUPPLY": 4795,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/rengaravedao",
+  "SHOW_BACKGROUND": true
+}
